@@ -7,4 +7,3 @@ requests
 nltk==3.9.0
 pandas
 matplotlib
-gorilla-api-client
