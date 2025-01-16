@@ -8,4 +8,3 @@ nltk==3.9.0
 pandas
 matplotlib
 gorilla
-gorilla-api-client @ git+https://github.com/your-org/gorilla-api-client.git
